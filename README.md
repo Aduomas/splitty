@@ -4,7 +4,7 @@
 Splitty is an application which purpose is to facilitate financial organization in a group of people. This is basically achieved by creating an event and adding participants to it. Every participant is able to create an expense and add participants that owe him money. Also every participant can send invite code for the event, mark debts settled, see all expenses in the event etc. Every user is able to set up its own application by choosing between some common languages and choosing server.
 ##  Setup
 1. Clone the repository
-> run `git clone https://gitlab.ewi.tudelft.nl/cse1105/2023-2024/teams/oopp-team-09/` in the app directory
+> run `git clone https://github.com/Aduomas/splitty/` in the app directory
 
 2. Build the app
 > run `./gradlew build` in the app directory

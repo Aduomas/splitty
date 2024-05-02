@@ -1,5 +1,4 @@
 # Splitty
-[TOC]
 ## Description
 Splitty is an application which purpose is to facilitate financial organization in a group of people. This is basically achieved by creating an event and adding participants to it. Every participant is able to create an expense and add participants that owe him money. Also every participant can send invite code for the event, mark debts settled, see all expenses in the event etc. Every user is able to set up its own application by choosing between some common languages and choosing server.
 ##  Setup

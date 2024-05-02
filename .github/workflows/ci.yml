@@ -32,6 +32,9 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y xvfb libgtk-3-0
 
+      - name: Make Gradle Wrapper executable
+        run: chmod +x ./gradlew
+
       - name: Build with Gradle
         run: xvfb-run ./gradlew build
 
